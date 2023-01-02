@@ -1,0 +1,5 @@
+# 分鏡板(storyboard)
+![分鏡板1](https://github.com/Suisei99/System_First10-/blob/main/storyboard1.jpg?raw=true)
+![分鏡板2](https://github.com/Suisei99/System_First10-/blob/main/storyboard2.jpg?raw=true)
+![分鏡板3](https://github.com/Suisei99/System_First10-/blob/main/storyboard3.jpg?raw=true)
+![分鏡板4](https://github.com/Suisei99/System_First10-/blob/main/storyboard4.jpg?raw=true)
