@@ -14,5 +14,6 @@
 # 功能分解表
   ![](https://github.com/Suisei99/System_First10-/blob/main/FDD.png?raw=true)
 
-
+# 使用案例
+![使用案例](https://github.com/Suisei99/System_First10-/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.png?raw=true)
 
